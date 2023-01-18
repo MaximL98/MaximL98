@@ -2,9 +2,6 @@
 ## My name is Maxim :smile:	
 ### Im a B.Sc. Software Engineering Student :man_student:
 
-## Currently creating projects that interest me or will make my life easier :nerd_face:
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
